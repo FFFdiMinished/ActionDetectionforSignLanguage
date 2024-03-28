@@ -36,5 +36,3 @@ with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=
 
 This README provides an overview of how to set up dependencies, use the MP Holistic model for keypoint detection, and process video feeds to visualize landmarks.[1]
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13235423/59e26519-1daa-4178-91b2-652eb5313114/paste.txt
